@@ -1,3 +1,5 @@
+# budgettracker
+PWA HW
 # Budget Tracker ![License: See Below](https://img.shields.io/badge/license-other-orange.svg)
   This application keeps track of expenditures and income online and offline for the traveling user. Using indexedDB, even with no internet connection, every transaction entered will be saved in a DB and when reconnected, updated in the server-side DB. 
   ## Table of Contents
